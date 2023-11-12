@@ -1,0 +1,7 @@
+Doe , Jane , 2000-11-06 , 8500
+Doe , Jhon , 2005-03-26 , 6500
+Smith , Joe , 2015-04-05 , 4300
+Smith , Kate , 2020-09-01 , 2400
+Riley , Bill , 2017-03-16 , 3000
+Jhonson , Brianna , 2018-10-10 , 3400
+De La Rosa, Martin , 2007-07-03 , 5700
